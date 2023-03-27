@@ -13,4 +13,4 @@ pytorch 1.8.0
 torch\_geometric 2.0.3  
 
 相关python lib见requirements.txt  
-:happy:
+:smile:
